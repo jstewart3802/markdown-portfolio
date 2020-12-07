@@ -1,1 +1,1 @@
-![Image of me and Jett](_includes/IMG_6182.jpg)
+![Image of me and Jett](https://github.com/jstewart3802/markdown-portfolio/_includes/IMG_6182.jpg)
